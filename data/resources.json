@@ -1,6 +1,6 @@
 {
   "title": "GDG DevFest Season 2018",
-  "description": "Be a hero. Be a GDG!",
+  "description": "Join the community, learn new things!",
   "image": "images/social-share.jpg",
   "keywords": "event, gdg, gde, devfest, google, programming, android, chrome, polymer, developers, web, cloud, androiddev",
   "dates": "October 12-13, 2018",
@@ -23,7 +23,8 @@
   "country": "Country",
   "time": "Time",
   "faq": "/data/faq.md",
-  "cod": "/data/cod.md",
+  "coc": "/data/coc.md",
+  "timezoneOffset": "-180",
   "footer": {
     "blog": "Blog"
   },
@@ -41,8 +42,13 @@
           "newTab": true
         },
         {
-          "name": "Google Developers Group",
-          "url": "https://developers.google.com/",
+          "name": "GDG",
+          "url": "https://developers.google.com/groups/",
+          "newTab": true
+        },
+        {
+          "name": "DevFest",
+          "url": "https://devfest.withgoogle.com/",
           "newTab": true
         },
         {
@@ -110,8 +116,16 @@
   ],
   "subscribeNote": "No spam, only the latest news and updates!",
   "codeOfConduct": "Code of Conduct",
+  "codeOfConductBlock": {
+    "organization": "DevFest",
+    "form": "https://bit.ly/2RstTJ8",
+    "contacts": [
+      "Organizer Oleh Zasadnyy, [+38 093 486 6460](tel:+380934866460), o.zasadnyy@gdg.org.ua",
+      "Organizer Sofiya Huts, [+38 093 486 1425](tel:+380934861425), s.huts@gdg.org.ua"
+    ]
+  },
   "aboutBlock": {
-    "title": "What you need to know, before you ask.",
+    "title": "About",
     "callToAction": {
       "featuredSessions": {
         "description": "GDG DevFest Ukraine brings together the world class experts in Android, Web and Cloud technologies to Lviv for 2 days of sessions, workshops and showcases.",
@@ -185,7 +199,7 @@
     "previousYear": "Year"
   },
   "speakersBlock": {
-    "title": "Rockstar speakers",
+    "title": "Speakers",
     "callToAction": {
       "label": "View all speakers",
       "link": "/speakers/"
@@ -223,7 +237,7 @@
     "subscribe": "Subscribe",
     "subscribed": "Subscribed",
     "close": "Close",
-    "generalError": "Some error has occured. Please, try again later.",
+    "generalError": "An error has occurred. Please, try again later.",
     "toast": "Successfully subscribed!"
   },
   "team": {
@@ -231,6 +245,20 @@
   },
   "schedule": {
     "saveSessionsSignedOut": "Sign in to save sessions"
+  },
+  "feedback": {
+    "save": "Save",
+    "headline": "Review session",
+    "leaveFeedback": "to leave feedback",
+    "sendFeedbackSignedOut": "Sign in to leave feedback",
+    "feedbackRecorded": "Your saved",
+    "feedbackDeleted": "Feedback deleted",
+    "helperText": "Comments will be anonymously provided to speakers",
+    "somethingWentWrong": "Something went wrong",
+    "contentCaption": "Content quality",
+    "styleCaption": "Presentation style",
+    "deleteFeedback": "Delete",
+    "sessionClosed": "Session reviews are not open"
   },
   "sessionDetails": {
     "contentLevel": "Content level",
@@ -249,7 +277,7 @@
     "unsubscribe": "Unsubscribe",
     "enable": {
       "label": "Enable",
-      "link": "https://pushassist.com/knowledgebase/how-to-enable-or-disable-push-notifications-on-chrome-firefox-safari-b/"
+      "link": "https://support.google.com/chrome/answer/3220216"
     },
     "toast": {
       "title": "Open"
@@ -267,11 +295,20 @@
         }
       },
       {
-        "title": "What is GDG?",
-        "description": "Google Developers Group (GDG) - is open and volunteer geek community who create exciting projects and share experience about Google technologies with a passion",
+        "title": "What is a GDG?",
+        "description": "A Google Developer Group is a community of volunteers who create exciting projects and share experiences about Google technologies.",
         "callToAction": {
           "label": "Read more",
           "link": "https://developers.google.com/groups/",
+          "newTab": true
+        }
+      },
+      {
+        "title": "What is DevFest?",
+        "description": "DevFests are community-led developer events hosted by Google Developer Groups around the globe.",
+        "callToAction": {
+          "label": "Read more",
+          "link": "https://devfest.withgoogle.com/",
           "newTab": true
         }
       }
