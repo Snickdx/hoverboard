@@ -126,7 +126,7 @@ export class HoverboardApp extends ReduxMixin(PolymerElement) {
         }
 
         .toolbar-logo {
-          --iron-image-height: 32px;
+          --iron-image-height: 44px;
         }
 
         app-header-layout {
@@ -187,7 +187,7 @@ export class HoverboardApp extends ReduxMixin(PolymerElement) {
           <app-toolbar layout vertical start>
             <plastic-image
               class="toolbar-logo"
-              srcset="/images/logo-monochrome.svg"
+              srcset="/images/logo-monochrome.png"
               alt="{$ title $}"
             ></plastic-image>
             <h2 class="dates">{$ dates $}</h2>

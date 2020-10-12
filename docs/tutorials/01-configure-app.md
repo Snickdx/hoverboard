@@ -40,7 +40,7 @@ The top block (aka 'hero') view of the page can be adjusted via `heroSettings` i
     "background": {
       "color": "#FFF"
     },
-    "fontColor": "#424242"
+    "fontColor": "#3389d7"
   },
   "speakers": {
     "title": "Speakers",
@@ -49,7 +49,7 @@ The top block (aka 'hero') view of the page can be adjusted via `heroSettings` i
     "background": {
       "color": "#FFF"
     },
-    "fontColor": "#424242"
+    "fontColor": "#3389d7"
   }
   ...
  }

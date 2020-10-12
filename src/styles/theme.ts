@@ -3,7 +3,7 @@ import { css } from 'lit-element';
 export const theme = css`
   :host {
     --dark-primary-color: #512da8;
-    --default-primary-color: #673ab7;
+    --default-primary-color: #3389d7;
     --focused-color: #311b92;
     --light-primary-color: #d1c4e9;
     --text-primary-color: #ffffff;

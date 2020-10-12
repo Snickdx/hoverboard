@@ -1,9 +1,9 @@
 {
-  "title": "GDG DevFest Season 2018",
-  "description": "Join the community, learn new things!",
+  "title": "DevFest Caribbean 2020",
+  "description": "The virtual developer conference of the caribbean.",
   "image": "images/social-share.jpg",
   "keywords": "event, gdg, gde, devfest, google, programming, android, chrome, polymer, developers, web, cloud, androiddev",
-  "dates": "October 12-13, 2018",
+  "dates": "October 16-18, 2020",
   "partnershipProposition": "https://bit.ly/dfua17-partners",
   "share": "Share",
   "followOur": "Follow our",
@@ -37,11 +37,6 @@
       "title": "About",
       "links": [
         {
-          "name": "GDG Lviv",
-          "url": "http://lviv.gdg.org.ua/",
-          "newTab": true
-        },
-        {
           "name": "GDG",
           "url": "https://developers.google.com/groups/",
           "newTab": true
@@ -50,68 +45,16 @@
           "name": "DevFest",
           "url": "https://devfest.withgoogle.com/",
           "newTab": true
-        },
-        {
-          "name": "Meet the Team",
-          "url": "https://devfest.gdg.org.ua/team/",
-          "newTab": true
         }
       ]
     },
     {
       "title": "Explore Past DevFests",
-      "links": [
-        {
-          "name": "DFUA 2013",
-          "url": "http://gdg-devfest-ua.appspot.com/",
-          "newTab": true
-        },
-        {
-          "name": "DFUA 2014",
-          "url": "https://dfua14.firebaseapp.com//",
-          "newTab": true
-        },
-        {
-          "name": "DFUA 2015",
-          "url": "https://dfua15.firebaseapp.com/",
-          "newTab": true
-        },
-        {
-          "name": "DFUA 2016",
-          "url": "https://dfua16.firebaseapp.com/",
-          "newTab": true
-        }
-      ]
+      "links": []
     },
     {
       "title": "Event Resources",
-      "links": [
-        {
-          "name": "Partnership Proposition",
-          "url": "https://devfest.gdg.org.ua/assets/GDG_DevFest_2016_partnership_proposition.pdf",
-          "newTab": true
-        },
-        {
-          "name": "Info Partnership Proposition",
-          "url": "https://devfest.gdg.org.ua/assets/GDG_DevFest_2016_partnership_proposition.pdf",
-          "newTab": true
-        },
-        {
-          "name": "Media Kit",
-          "url": "https://devfest.gdg.org.ua/assets/GDG_DevFest_2016_partnership_proposition.pdf",
-          "newTab": true
-        },
-        {
-          "name": "Call for Papers",
-          "url": "https://drive.google.com/open?id=10tPuu_7ASM8C70SotqRqIW5Uzos9BzALilMMQPg_JvA",
-          "newTab": true
-        },
-        {
-          "name": "FAQs",
-          "url": "/faq/",
-          "newTab": false
-        }
-      ]
+      "links": []
     }
   ],
   "subscribeNote": "No spam, only the latest news and updates!",
@@ -128,7 +71,7 @@
     "title": "About",
     "callToAction": {
       "featuredSessions": {
-        "description": "GDG DevFest Ukraine brings together the world class experts in Android, Web and Cloud technologies to Lviv for 2 days of sessions, workshops and showcases.",
+        "description": "DevFest 2020 brings together thousands of developers globally for the largest virtual weekend of community-led technical learning and a shared passion for Google technologies on Oct 16-18. The magic of DevFest has always come from the people involved - developers from all different backgrounds and skill levels. For DevFest 2020, Google Developer Groups are coming together in a whole new way - virtually over one weekend. This global moment empowers developers to teach, learn, and connect when they may need it the most. DevFest Caribbean is the regional arm of this event that is being organized by Jamaica, Haiti, Trinidad & Tobago & Guyana! We have over 15 speakers from all across the world coming to you live!",
         "label": "Explore featured session",
         "link": "https://www.youtube.com/playlist?list=PLt8lEzcLNl31AouwDkbLbLARlQFwNS2en"
       },
@@ -141,19 +84,19 @@
     "statisticsBlock": {
       "attendees": {
         "label": "Attendees",
-        "number": "900"
+        "number": "100"
       },
       "days": {
         "label": "Days",
-        "number": "2"
+        "number": "3"
       },
       "sessions": {
         "label": "Sessions",
-        "number": "50"
+        "number": "18"
       },
       "tracks": {
         "label": "Tracks",
-        "number": "4"
+        "number": "1"
       }
     }
   },
