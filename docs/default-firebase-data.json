@@ -1,6 +1,5 @@
 {
-  "blog": {
-  },
+  "blog": {},
   "gallery": [],
   "notifications": {
     "config": {
@@ -98,134 +97,1268 @@
       "title": "General Partner"
     }
   ],
- "schedule": {
-    "2020-10-16": {
-      "date": "2020-10-16",
-      "dateReadable": "October 16th",
-      "timeslots": [
-        {
-          "endTime": "10:00",
-          "sessions": [
-            {
-              "items": ["101"]
-            }
-          ],
-          "startTime": "09:00"
-        },
-        {
-          "endTime": "10:15",
-          "sessions": [
-            {
-              "items": ["102"]
-            }
-          ],
-          "startTime": "10:00"
-        }
-      ],
-      "tracks": [
-        {
-          "title": "Expo hall"
-        },
-        {
-          "title": "Conference hall"
-        },
-        {
-          "title": "Workshops hall"
-        }
-      ]
-    },
-    "2020-10-17": {
-      "date": "2020-10-16",
-      "dateReadable": "October 17th",
-      "timeslots": [
-        {
-          "endTime": "10:10",
-          "sessions": [
-            {
-              "items": ["103"]
-            }
-          ],
-          "startTime": "09:30"
-        },
-        {
-          "endTime": "10:50",
-          "sessions": [
-            {
-              "items": ["104"]
-            }
-          ],
-          "startTime": "10:10"
-        }
-      ],
-      "tracks": [
-        {
-          "title": "Expo hall"
-        },
-        {
-          "title": "Conference hall"
-        },
-        {
-          "title": "Workshops hall"
-        }
-      ]
-    }
+  "schedule":{
+  "2020-10-16": {
+    "date": "2020-10-16",
+    "dateReadable": "October 16th",
+    "timeslots": [
+      {
+        "endTime": "14:15",
+        "sessions": [
+          {
+            "items": [
+              "100"
+            ]
+          }
+        ],
+        "startTime": "14:00"
+      },
+      {
+        "endTime": "14:45",
+        "sessions": [
+          {
+            "items": [
+              "110"
+            ]
+          }
+        ],
+        "startTime": "14:15"
+      },
+      {
+        "endTime": "15:15",
+        "sessions": [
+          {
+            "items": [
+              "120"
+            ]
+          }
+        ],
+        "startTime": "14:45"
+      },
+      {
+        "endTime": "16:00",
+        "sessions": [
+          {
+            "items": [
+              "130"
+            ]
+          }
+        ],
+        "startTime": "15:15"
+      },
+      {
+        "endTime": "11:00",
+        "sessions": [
+          {
+            "items": [
+              "140"
+            ]
+          }
+        ],
+        "startTime": "16:00"
+      }
+    ],
+    "tracks": [
+      {
+        "title": "DevFest 2020"
+      }
+    ]
   },
+  "2020-10-17": {
+    "date": "2020-10-17",
+    "dateReadable": "October 17th",
+    "timeslots": [
+      {
+        "endTime": "11:05",
+        "sessions": [
+          {
+            "items": [
+              "200"
+            ]
+          }
+        ],
+        "startTime": "11:00"
+      },
+      {
+        "endTime": "11:55",
+        "sessions": [
+          {
+            "items": [
+              "210"
+            ]
+          }
+        ],
+        "startTime": "11:05"
+      },
+      {
+        "endTime": "12:25",
+        "sessions": [
+          {
+            "items": [
+              "220"
+            ]
+          }
+        ],
+        "startTime": "11:55"
+      },
+      {
+        "endTime": "12:55",
+        "sessions": [
+          {
+            "items": [
+              "230"
+            ]
+          }
+        ],
+        "startTime": "12:25"
+      },
+      {
+        "endTime": "13:40",
+        "sessions": [
+          {
+            "items": [
+              "240"
+            ]
+          }
+        ],
+        "startTime": "12:55"
+      },
+      {
+        "endTime": "14:05",
+        "sessions": [
+          {
+            "items": [
+              "260"
+            ]
+          }
+        ],
+        "startTime": "13:40"
+      },
+      {
+        "endTime": "14:35",
+        "sessions": [
+          {
+            "items": [
+              "270"
+            ]
+          }
+        ],
+        "startTime": "14:05"
+      },
+      {
+        "endTime": "15:05",
+        "sessions": [
+          {
+            "items": [
+              "280"
+            ]
+          }
+        ],
+        "startTime": "14:35"
+      },
+      {
+        "endTime": "15:35",
+        "sessions": [
+          {
+            "items": [
+              "290"
+            ]
+          }
+        ],
+        "startTime": "15:05"
+      },
+      {
+        "endTime": "11:00",
+        "sessions": [
+          {
+            "items": [
+              "299"
+            ]
+          }
+        ],
+        "startTime": "15:35"
+      }
+    ],
+    "tracks": [
+      {
+        "title": "DevFest 2020"
+      }
+    ]
+  },
+  "2020-10-18": {
+    "date": "2020-10-18",
+    "dateReadable": "October 18th",
+    "timeslots": [
+      {
+        "endTime": "11:05",
+        "sessions": [
+          {
+            "items": [
+              "300"
+            ]
+          }
+        ],
+        "startTime": "11:00"
+      },
+      {
+        "endTime": "11:35",
+        "sessions": [
+          {
+            "items": [
+              "310"
+            ]
+          }
+        ],
+        "startTime": "11:05"
+      },
+      {
+        "endTime": "12:25",
+        "sessions": [
+          {
+            "items": [
+              "320"
+            ]
+          }
+        ],
+        "startTime": "11:35"
+      },
+      {
+        "endTime": "12:55",
+        "sessions": [
+          {
+            "items": [
+              "330"
+            ]
+          }
+        ],
+        "startTime": "12:25"
+      },
+      {
+        "endTime": "13:25",
+        "sessions": [
+          {
+            "items": [
+              "340"
+            ]
+          }
+        ],
+        "startTime": "12:55"
+      },
+      {
+        "endTime": "13:45",
+        "sessions": [
+          {
+            "items": [
+              "350"
+            ]
+          }
+        ],
+        "startTime": "13:25"
+      },
+      {
+        "endTime": "14:15",
+        "sessions": [
+          {
+            "items": [
+              "360"
+            ]
+          }
+        ],
+        "startTime": "13:45"
+      },
+      {
+        "endTime": "14:35",
+        "sessions": [
+          {
+            "items": [
+              "370"
+            ]
+          }
+        ],
+        "startTime": "14:15"
+      },
+      {
+        "endTime": "15:05",
+        "sessions": [
+          {
+            "items": [
+              "380"
+            ]
+          }
+        ],
+        "startTime": "14:35"
+      },
+      {
+        "endTime": "16:05",
+        "sessions": [
+          {
+            "items": [
+              "390"
+            ]
+          }
+        ],
+        "startTime": "15:05"
+      },
+      {
+        "endTime": "17:05",
+        "sessions": [
+          {
+            "items": [
+              "400"
+            ]
+          }
+        ],
+        "startTime": "16:05"
+      }
+    ],
+    "tracks": [
+      {
+        "title": "DevFest 2020"
+      }
+    ]
+  }
+},
   "sessions": {
-    "101": {
-      "complexity": "Beginner",
-      "description": "In this session, we will take a look at Windows and .NET support on Google Cloud Platform. We will build a simple ASP.NET app, deploy to Google Compute Engine and take a look at some of the tools and APIs available to .NET developers on Google Cloud Platform. ",
-      "language": "English",
-      "presentation": "https://speakerdeck.com/gdglviv/mete-atamel-windows-and-net-on-google-cloud-platform",
-      "speakers": ["adrian_kajda"],
-      "tags": ["Cloud"],
-      "title": "Windows and .NET on Google Cloud Platform "
+    "100": {
+      "complexity": "",
+      "description": "",
+      "speakers": [
+        "nicholas_mendez"
+      ],
+      "tags": [
+        ""
+      ],
+      "title": "Event Opening",
+      "language": "English"
     },
-    "102": {
+    "110": {
       "complexity": "Beginner",
-      "description": "Do you remember the game Simon says from the 80s? I don’t know about you, but I know many that spent hours trying to press those specific sequences of red, green, blue and yellow buttons in the correct order. But why play on your own? We’ve implemented a gRPC server that allows you to play Simon with other players over the internet!\n\nIn this workshop we will dive into the toolset and libraries to build your very own Simon Says client for this server. We will have a message description in Protocol Buffers format and some stub code in several languages ready for you to play with. The goal for this workshop is for you to have a working client that you can use to play (and beat!) other attendees of the workshop.",
-      "language": "English",
-      "speakers": ["adrian_kajda"],
-      "tags": ["Cloud"],
-      "title": "Hands-on gRPC experience building your own multiplayer game client"
+      "description": "Overview of the open source development of Caribbean Virus Tracker project. This session will discuss the approach, the tech stack, the issues faced and future developments of the project.",
+      "speakers": [
+        "obika_gellineau"
+      ],
+      "tags": [
+        "javascript",
+        "python",
+        "open source",
+        "covid-19"
+      ],
+      "title": "Open Source during COVID-19: A lesson about the Caribbean Virus Tracker",
+      "language": "English"
     },
-    "103": {
+    "120": {
+      "complexity": "Beginner",
+      "description": "Just about when the COVID situation was evolving into a pandemic, a journalist contacted me lamenting the fact they as journalists, would have to go to Johns Hopkins site and manually sum up the Caribbean relevant data. Armed with the link to the open Johns Hopkins data, it quickly became clear that what they needed could easily be built. Several months later, the code and features have evolved. In this lightning talk I would walk through my tech stack (React.js), parsing the CSV from Johns Hopkins and deployment. If time permits, I can talk a bit about deciding to make this map open source.",
+      "speakers": [
+        "janiquaka_john"
+      ],
+      "tags": [
+        "javascript",
+        " COVID"
+      ],
+      "title": "caricovidmap, making caribbean focused information more accesible.",
+      "language": "English"
+    },
+    "130": {
       "complexity": "Intermediate",
-      "description": "Doze mode is just around the corner. \nIntroduced in Marshmallow, as the shy guy that was allowed to step in only when your device went to sleep. ZzzZzzzz\nWith the new N release, Doze mode becomes the rockstar. He rushes into the room with a big shabang by shooting all background services and network requests that forgot to get away. \nHe should no longer be shy. He just shoots and dances on bones of your scheduled alarms, while you wonder why this particular task is no longer running.\nWith the new Doze mode, you require to adapt your app architecture to the new reality.\nOn this talk, we will learn how to survive Doze mode using Job Scheduler, Content Provider and stay in one piece.",
-      "language": "English",
-      "presentation": "https://speakerdeck.com/gdglviv/yonatan-levin-knock-knock-whos-there-doze",
-      "speakers": ["adrian_kajda"],
-      "tags": ["Android"],
-      "title": "Knock knock! Who's there? Doze."
+      "description": "Listen, COVID19 hit us like a ton of bricks. It's a pandemic. We're on various forms of lockdown - officially or not. I've built some chatbots that help with managing a bit of my work life that I'd love to share. They help with working together at home, balance and even engagement. ",
+      "speakers": [
+        "irwin_williams"
+      ],
+      "tags": [
+        "chatbots",
+        " cloud",
+        " calling",
+        " work",
+        " covid19"
+      ],
+      "title": "Agents of TEAMS",
+      "language": "English"
     },
-    "104": {
+    "140": {
+      "complexity": "Advanced",
+      "description": "Data engineering roles are in high demand, yet the number of women in manager or leadership roles has no shifted. As a hiring manager I will give you insight into how tailor your application to go for the manager role, what hiring managers look for in applicant, how to highlight your skills as a leader.",
+      "speakers": [
+        "liza_layne"
+      ],
+      "tags": [
+        "Data Engineer",
+        "IC",
+        "Manager"
+      ],
+      "title": "Level up from IC Data Engineer to Data Manager?",
+      "language": "English"
+    },
+    "200": {
+      "complexity": "",
+      "description": "",
+      "speakers": [
+        "nicholas_mendez"
+      ],
+      "tags": [
+        ""
+      ],
+      "title": "Day 2 Opening",
+      "language": "English"
+    },
+    "210": {
+      "complexity": "Intermediate",
+      "description": "Android 11 is the eleventh major release and the 18th version of the Android mobile operating system. It was released on September 8, 2020. I will be diving into the latest features that have been brought to the operating system for users and developers alike. ",
+      "speakers": [
+        "joel_dean"
+      ],
+      "tags": [
+        "android",
+        "mobile"
+      ],
+      "title": "Let's Talk Android 11 ",
+      "language": "English"
+    },
+    "220": {
       "complexity": "Beginner",
-      "description": "It's no longer just about digitizing our environment. It’s rather about pervasive and ubiquitous computing. Almost all everyday things will turn into connected devices soon. This “Internet of Things” will allow the Web to be physically tangible. But what is the value, and how can one prevent IoT applications which just seem to be only more expensive and complicated than conventional solutions. Sascha will discuss the purpose and guide you through this complex topic showing inspiring solutions, tips from practice, and code samples in a variety of technologies from simple Bluetooth Eddystone Beacons to more sophisticated IoT platforms like Eclipse SmartHome.",
-      "language": "English",
-      "presentation": "https://speakerdeck.com/gdglviv/sascha-wolter-the-physical-web-context-is-king",
-      "speakers": ["adrian_kajda"],
-      "tags": ["Web"],
-      "title": "The Physical Web: Context is King!",
-      "videoId": "fLfQNp75kbc"
+      "description": "In this talk I will go through the new api which helps to get user feedback within the app without interrupting the user. I will cover the concepts as well as implementation including testing.",
+      "speakers": [
+        "nav_singh"
+      ],
+      "tags": [
+        "android ux mobile feedback"
+      ],
+      "title": "Get user's feedback using InAppReview API",
+      "language": "English"
+    },
+    "230": {
+      "complexity": "Intermediate",
+      "description": "For several years now, that we’ve been trying to find new solutions on how we could develop a single project and run it on all platforms. We’ve been seeing all types of solutions: some are web-based, others require you to learn a new language, and others even may require that you pay a monthly fee to use. It also comes with the drawback that all your UI depends on the framework implementation. So, if there’s a native update you’ll need to wait until someone rewrites the widgets for you to update your app.\r\n\r\nKotlin multiplatform gives us a new solution. It focuses on sharing your business logic across all platforms, leaving the UI to be implemented natively. Since it’s Kotlin, you can take full advantage of its language features - concise, safe, etc. Moreover, if you’re coming from android you might already be familiarised with Kotlin and even if you’re an iOS developer you’ll see that it’s quite similar to Swift.\r\n\r\nJoin me on this triathlon and let’s go through Android, iOS, and Web in under 30 minutes.",
+      "speakers": [
+        "carlos_mota"
+      ],
+      "tags": [
+        "Android",
+        " iOS",
+        " Kotlin",
+        " KMM"
+      ],
+      "title": "A Multiplatform triathlon: Kotlin through Android, iOS and Web",
+      "language": "English"
+    },
+    "240": {
+      "complexity": "Beginner",
+      "description": "Kotlin Multiplatform is here to stay! We start to see several products in production that are already migrating part of their code/ implementing new features with KMP. The goal here is simple, develop your application logic once and use it on every platform.\r\n\r\nSo join me on the next two hours on this multiplatform adventure and let’s create an app for android and iOS.",
+      "speakers": [
+        "carlos_mota"
+      ],
+      "tags": [
+        "Android",
+        " iOS",
+        " Kotlin",
+        " KMM"
+      ],
+      "title": "A Multiplatform Adventure!",
+      "language": "English"
+    },
+    "260": {
+      "complexity": "Intermediate",
+      "description": "Chances are if you've ever had to parse some data from an endpoint you were using a RESTFUL API, as it's been around for many years and is widely used. GraphQL was created by Facebook and made available for public use in 2015. It gives you the power of requesting the exact data you need from a server in a single query and receive it in a JSON object; whereas in REST you have to make requests to multiple endpoints in gathering data. This take we will jump straight into GraphQl and how to use it in Flutter",
+      "speakers": [
+        "deandrew_moore"
+      ],
+      "tags": [
+        "flutter",
+        " dart",
+        " graphql",
+        " mobile-technologies"
+      ],
+      "title": "Introduction to GraphQL in Flutter",
+      "language": "English"
+    },
+    "270": {
+      "complexity": "Intermediate",
+      "description": "The concept of having a framework for a framework seemed a bit strange and unnecessary to me at first, but as my applications grew in complexity some things became harder to manage and nuxt took some of the pains away.",
+      "speakers": [
+        "carl_handy"
+      ],
+      "tags": [
+        "javascript",
+        " vuejs",
+        " nuxtjs",
+        " web development"
+      ],
+      "title": "NuxtJS: the savior of Vue.js development",
+      "language": "English"
+    },
+    "280": {
+      "complexity": "Beginner",
+      "description": "Progressive Web Applications are fastly gaining support and traction in modern web development. However, with so many entry points (from a frameworks, cli tool, library) what is the easiest way to get started? This presentation will outline the core attributes of a pwa and a code-lab in converting a simple web app into a PWA.",
+      "speakers": [
+        "nicholas_mendez"
+      ],
+      "tags": [
+        "PWA",
+        " Service Worker",
+        " Workbox",
+        " Web Development"
+      ],
+      "title": "Head First into PWA's",
+      "language": "English"
+    },
+    "290": {
+      "complexity": "Intermediate",
+      "description": "Traditional methods of interacting, such as keyboards, mouse and multi-touch screens are now being accompanied, and to some degree, replaced by natural language-based interactions in the form of “conversational experiences”. This relatively new form of interaction is driven by Conversational Artificial Intelligence (AI). Conversational AI is already impacting industries by creating “human-like” exchanges between end-users and software systems and presents a promising role in evolving how humans interact with computer systems in the future. However, given this uptrend of adopting Conversational AI, the world of Management Information Systems remains untouched by this phenomenon. In this talk, we will be looking at way to integrate and build MIS based tasks into a virtual assistant using DialogFlow to figure out the question...can the interaction between humans and Management Information Systems be changing?",
+      "speakers": [
+        "deenauth_mohabeer"
+      ],
+      "tags": [
+        "chatbots",
+        " conversational_ai",
+        " conversational_artificial_intelligence",
+        " dialogflow",
+        " asr"
+      ],
+      "title": "Conversational AI and Management Information Systems. Is there a new mode of interaction coming?",
+      "language": "English"
+    },
+    "299": {
+      "complexity": "",
+      "description": "",
+      "speakers": [
+        "nicholas_mendez"
+      ],
+      "tags": [
+        ""
+      ],
+      "title": "Panel Talk",
+      "language": "English"
+    },
+    "300": {
+      "complexity": "#N/A",
+      "description": "#N/A",
+      "speakers": [
+        "nicholas_mendez"
+      ],
+      "tags": [
+        "#N/A"
+      ],
+      "title": "Day 3 Opening",
+      "language": "English"
+    },
+    "310": {
+      "complexity": "Advanced",
+      "description": "How Analythics Drive decisions",
+      "speakers": [
+        "lashuan_ramdin"
+      ],
+      "tags": [
+        "Digital Marketing"
+      ],
+      "title": "Digital Marketing",
+      "language": "English"
+    },
+    "320": {
+      "complexity": "Beginner",
+      "description": "How do you build a product that users will use and love? How do you build a product that is usable and useful? How do you build a product that makes users' lives easier and/or better? How do you uncover users' needs? How do you incorporate users and their needs into your design process? How do you make sure users are central to your design process? How do you involve the entire team (engineers, too!) in this user-centered design process? And ultimately, how do you measure whether your product is successful or not?\r\n\r\nCome to this talk if you want to learn more about the questions above and start the discussion of user-centered design for the Caribbean Developer community!",
+      "speakers": [
+        "khadine_singh"
+      ],
+      "tags": [
+        "designthinking",
+        " metrics",
+        " measurement",
+        " ux",
+        " research",
+        " usercentereddesign",
+        " successmetrics"
+      ],
+      "title": "Design Thinking & Measuring Success",
+      "language": "English"
+    },
+    "330": {
+      "complexity": "Intermediate",
+      "description": "I will share with you insights about how you can run easily  relevant research in your company, no matter if a 5 people startup or a 10k people corporate. ",
+      "speakers": [
+        "michael_dorka"
+      ],
+      "tags": [
+        "UX",
+        " Research",
+        " Design Sprints",
+        " User testing",
+        " User interviews",
+        " product itteration"
+      ],
+      "title": "Research and product intelligence ",
+      "language": "English"
+    },
+    "340": {
+      "complexity": "Advanced",
+      "description": "Testing is an important part of the modern development workflow. Automated testing has gone from nice to have to a must know as organizations try to quickly iterate on the products that they are working on. In this session we will talk about the different types of tests and help shed light on the practical applications of code testing. ",
+      "speakers": [
+        "akeem_philbert"
+      ],
+      "tags": [
+        "tdd ci cd testing golang javascript"
+      ],
+      "title": "Pass The Test",
+      "language": "English"
+    },
+    "350": {
+      "complexity": "Intermediate",
+      "description": "Many developers know the benefits of Test-Driven Development but it is not always practised. This session will guide you on how to use the tools that come with Angular for testing common application functionality.  ",
+      "speakers": [
+        "qarun"
+      ],
+      "tags": [
+        "javascript",
+        " angular",
+        " testing",
+        " typescript"
+      ],
+      "title": "The Basics of Testing in Angular",
+      "language": "English"
+    },
+    "360": {
+      "complexity": "Beginner",
+      "description": "Integrating a development team into a company is no easy task. It involves a shift in mindset, technology and the willingness to step outside of the box for both management and the developers.\r\n \r\nJoin us as we take you through some of the hurdles and lessons learnt as we embarked on a journey to do just that!",
+      "speakers": [
+        "neevash_ramdial"
+      ],
+      "tags": [
+        "development",
+        " business",
+        " management"
+      ],
+      "title": "Business meets Development",
+      "language": "English"
+    },
+    "370": {
+      "complexity": "Beginner",
+      "description": "N/A",
+      "speakers": [
+        "sherezz_grant"
+      ],
+      "tags": [
+        "remote_work",
+        " digital_nomad"
+      ],
+      "title": "Going Remote",
+      "language": "English"
+    },
+    "380": {
+      "complexity": "Beginner",
+      "description": "Making any social innovation a reality involves multiple levels of experience and skills to create the ecosystem that will is sustainable, safe and trustworthy to the public that it will serve, and many of these skills lie outside of the development skillbase. \r\n\r\nThis is a talk about my experience completing Phase 1 of a major solution project with volunteers, local mental health service providers, and Regional health industry leaders to build a mental health platform to improve accessibility to mental health in our country in response to COVID-19 and other disasters.\r\n\r\nI will discuss why the new MVP we have developed will work BETTER than the more elaborate models intended before due to the trustworthiness and powerful community that has been created to support it and distribute it. ",
+      "speakers": [
+        "maria_obrien"
+      ],
+      "tags": [
+        "ux",
+        " web apps",
+        " user research",
+        " mental health"
+      ],
+      "title": "Where Opportunity Meets Intention- Building Social Solutions in the Caribbean",
+      "language": "English"
+    },
+    "390": {
+      "complexity": "",
+      "description": "",
+      "speakers": [
+        "nicholas_mendez"
+      ],
+      "tags": [
+        ""
+      ],
+      "title": "Panel Talk",
+      "language": "English"
+    },
+    "400": {
+      "complexity": "",
+      "description": "",
+      "speakers": [
+        "nicholas_mendez"
+      ],
+      "tags": [
+        ""
+      ],
+      "title": "Closing",
+      "language": "English"
     }
   },
-  "speakers": {
-    "adrian_kajda": {
-      "bio": "Creator of Fuelio app. Fuelio was his hooby project started in 2012. Three years later the app was aquired by Sygic.",
-      "company": "Sygic",
-      "companyLogo": "/images/logos/gdg-lviv.svg",
-      "companyLogoUrl": "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/logos/gdg-lviv.svg",
-      "country": "Creator of Fuelio app. Fuelio blah blah, Poland",
-      "featured": true,
-      "name": "Adrian Kajda",
-      "photo": "/images/people/adrian_kajda.jpg",
-      "photoUrl": "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/people/optim/adrian_kajda.jpg",
-      "pronouns": "he/him",
-      "shortBio": "Creator of Fuelio app. Fuelio was his hooby project started in 2012. Three years later the app wa...",
-      "socials": [],
-      "order": 0,
-      "title": "Product Manager/Developer"
-    }
+  "speakers":{
+  "akeem_philbert": {
+    "bio": "I am an entrepreneur at heart that is excited about using technology to transform the way we live. I believe in fostering the local developer community and I've begin the opportunity to participate in past GDG events as presenter and panelist.",
+    "company": "Wepala Limited",
+    "country": "Trinidad and Tobago",
+    "name": "Akeem Philbert",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-71724.appspot.com/o/akeem.jpeg?alt=media&token=a80a2230-1afd-4e3c-b4a1-fa764b526b43",
+    "shortBio": "I am the founder of Wepala and I believe everyone has great ideas, it's just a matter of who can execute",
+    "socials": [
+      {
+        "icon": "linkedin",
+        "link": "https://www.linkedin.com/in/aphilbert/",
+        "name": "LinkedIn"
+      },
+      {
+        "icon": "website",
+        "link": "https://ak33m.com/",
+        "name": "Website"
+      },
+      {
+        "icon": "github",
+        "link": "https://github.com/wepala",
+        "name": "Github"
+      },
+      {
+        "icon": "twitter",
+        "link": "https://twitter.com/kanundrum",
+        "name": "Twitter"
+      }
+    ],
+    "title": "Founder",
+    "pronouns": "",
+    "featured": true,
+    "companyLogoUrl": "",
+    "companyLogo": "",
+    "photo": "",
+    "order": 0
   },
+  "carl_handy": {
+    "bio": "Carl Handy has led an impressive career as a Front-end Software Engineer and User Experience Designer (UXD) in his four years working in the tech industry. In 2020 he was recognized by Prismic, a San Francisco based SaaS company, for his contributions to their CMS platform.\n\nServing as Front-end Engineer and Lead UX Designer at IntellectStorm played a major role in honing the skills he has today. While there, he was afforded the opportunity to work on and lead projects in various industries including healthcare, fintech and education.\n\nCarl is also a Project Periwinkle Ambassador, LACNIC member and has founded his own companies namely Narawtiv, an art studio, and Kalpa, an experience design and development agency.\n\nWhen he’s not working, Carl enjoys writing poetry, digital painting and table tennis.",
+    "company": "Kalpa",
+    "country": "Guyana",
+    "name": "Carl Handy",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestcarib.appspot.com/o/carl.jpg?alt=media&token=fe3f7205-d8d0-4057-9e10-942c1cb92eb6",
+    "shortBio": "I'm a Frontend Engineer with a passion for Vuejs and designing intuitive user experiences. Throughout my 4 year career I've  worked on and led projects in various industries including healthcare, fintech and education.",
+    "socials": [
+      {
+        "icon": "twitter",
+        "link": "https://twitter.com/carlhandy18",
+        "name": "Twitter"
+      },
+      {
+        "icon": "website",
+        "link": "https://kalpa.dev",
+        "name": "Website"
+      },
+      {
+        "icon": "website",
+        "link": "https://carlhandy.ga",
+        "name": "Website"
+      },
+      {
+        "icon": "linkedin",
+        "link": "https://linkedin.com/in/carlhandy",
+        "name": "LinkedIn"
+      }
+    ],
+    "title": "Founder/CEO",
+    "pronouns": "",
+    "featured": true,
+    "companyLogoUrl": "",
+    "companyLogo": "",
+    "photo": "",
+    "order": 1
+  },
+  "carlos_mota": {
+    "bio": "Hello all!\n\nI've been speaking for a couple years now, you can find some of the slides here:\n- https://speakerdeck.com/cmota\n\nAnd all the talks that I gave at my website:\n- https://www.cafonsomota.xyz/talks/",
+    "company": "WIT Software",
+    "country": "Portugal",
+    "name": "Carlos Mota",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestcarib.appspot.com/o/carlos.jpg?alt=media&token=74759e21-2f3e-4b8b-9816-842d5ef58293",
+    "shortBio": "Android tech lead at WIT Software, he can easily be spotted there working on the company RCS solution. An enthusiastic for new technology and always trying to reach those last 20% of all of his side projects that seem to be really far away, he loves to share his knowledge with others either by giving talks, teaching, writing or along with a cold beer in the nearest pub. GDG Coimbra organizer and Kotlin evangelist, he also has a huge passion for travel, photography, space and the occasional run.",
+    "socials": [
+      {
+        "icon": "twitter",
+        "link": "https://twitter.com/cafonsomota",
+        "name": "Twitter"
+      },
+      {
+        "icon": "linkedin",
+        "link": "https://www.linkedin.com/in/cafonsomota/",
+        "name": "LinkedIn"
+      },
+      {
+        "icon": "website",
+        "link": "http://cafonsomota.xyz/",
+        "name": "Website"
+      }
+    ],
+    "title": "WIT Software",
+    "pronouns": "",
+    "featured": true,
+    "companyLogoUrl": "",
+    "companyLogo": "",
+    "photo": "",
+    "order": 3
+  },
+  "deandrew_moore": {
+    "bio": "I have presented at a pass GDG meetup, and also at The Jamaican Developers event hosted by Oshane Bailey.",
+    "company": "UWI Mona, Student. Past Palisadoes Foundation",
+    "country": "Jamaican",
+    "name": "Deandrew Moore",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestcarib.appspot.com/o/deandrew.jpg?alt=media&token=f07585d1-0a2f-43dd-b04b-5e8912537b15",
+    "shortBio": "I am Deandrew Moore, a third year Computer Science Major and Economics Minor at the UWI Mona. I am from Manchester, Jamaica and attended the deCarteret College High School in Mandeville. I love soca parties, football, working out and coding. One of dream jobs is to work at Twitter or Netflix",
+    "socials": [
+      {
+        "icon": "github",
+        "link": "https://github.com/Deandrew007",
+        "name": "Github"
+      },
+      {
+        "icon": "website",
+        "link": "https://deandrewmoore.com/",
+        "name": "Website"
+      },
+      {
+        "icon": "twitter",
+        "link": "https://twitter.com/_drewdon",
+        "name": "Twitter"
+      },
+      {
+        "icon": "linkedin",
+        "link": "https://www.linkedin.com/in/deandrew-moore-38091a172/",
+        "name": "LinkedIn"
+      },
+      {
+        "icon": "website",
+        "link": "https://www.instagram.com/_drew.don/",
+        "name": "Website"
+      }
+    ],
+    "title": "Flutter Engineer",
+    "pronouns": "",
+    "featured": true,
+    "companyLogoUrl": "",
+    "companyLogo": "",
+    "photo": "",
+    "order": 4
+  },
+  "deenauth_mohabeer": {
+    "bio": "A Certified Conversational Artificial Intelligence (AI) Developer with 5 years’ experience in working on medium to large scale software projects both locally and internationally. I am a final year student at the University of London (Distance Learning) studying B.Sc. Computing and Information Systems. Currently, I am a Technology Developer II at V75 Inc, working primarily in the Oracle Development Space using APEX and associated technologies to build scalable enterprise applications for clients globally. Additionally, I build and deploy Conversational AI Virtual Assistants using both proprietary and open source technologies like DialogFlow. I have an increased interest in Database Management, particularly in the scalability and optimization of data using Machine Learning techniques along with researching the expansion of Automatic Speech Recognition Systems (ASRs) to support the Caribbean Dialect in order for Virtual Assistants play a bigger role in our society.",
+    "company": "V75 Inc.",
+    "country": "Guyana",
+    "name": "Deenauth Mohabeer",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestcarib.appspot.com/o/deeunauth.jpg?alt=media&token=296d08f4-d42e-4901-bb96-e1a715ecfdb9",
+    "shortBio": "A Conversational AI Specialist who loves Oracle.",
+    "socials": [
+      {
+        "icon": "facebook",
+        "link": "https://www.facebook.com/AkashMohabeer/",
+        "name": "Facebook"
+      },
+      {
+        "icon": "website",
+        "link": "https://gitlab.com/dm272",
+        "name": "Website"
+      },
+      {
+        "icon": "linkedin",
+        "link": "https://www.linkedin.com/in/deenauth-mohabeer-0052b1135/",
+        "name": "LinkedIn"
+      }
+    ],
+    "title": "Technology Developer II",
+    "pronouns": "",
+    "featured": true,
+    "companyLogoUrl": "",
+    "companyLogo": "",
+    "photo": "",
+    "order": 5
+  },
+  "irwin_williams": {
+    "bio": "Irwin WIlliams is a professional software developer. He’s been building software for more than 16 years. \nFor the past several years, Irwin has worked with a number of researchers to provide technology-enabled solutions that brought their work to light. He’s worked in IoT, climate research and health-based application development. \nHe’s the Chief Software Engineer at Teleios Systems, one of the premier software companies in the region and he’s been developing his own firm, Aiomin Studios, with a goal to help explore the linkages between research and technology.\nIrwin and his wife have two beautiful daughters who teach him every day that the journey is best when it is shared.",
+    "company": "Teleios Systems",
+    "country": "Trinidad & Tobago",
+    "name": "Irwin Williams",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestcarib.appspot.com/o/irwin.png?alt=media&token=b5d78a17-7fa1-449d-b9cc-f46219e4cbf2",
+    "shortBio": "Hi, I'm a softwre engineer working in the industry for some years. I enjoy working with new technologies and seeing great presentations.",
+    "socials": [
+      {
+        "icon": "twitter",
+        "link": "https://twitter.com/iStarr",
+        "name": "Twitter"
+      },
+      {
+        "icon": "website",
+        "link": "https://www.irwinwilliams.com",
+        "name": "Website"
+      },
+      {
+        "icon": "linkedin",
+        "link": "https://www.linkedin.com/in/irwinwilliams/",
+        "name": "LinkedIn"
+      }
+    ],
+    "title": "Chief Software Engineer",
+    "pronouns": "",
+    "featured": true,
+    "companyLogoUrl": "",
+    "companyLogo": "",
+    "photo": "",
+    "order": 6
+  },
+  "janiquaka_john": {
+    "bio": "I am a Vincentian junior frontend engineer at my company, after transitioning from being an experienced software engineer on a desktop application. In March 2020, I gave a lightning talk at Google UK about my journey into tech in front of 250 participants. https://events.withgoogle.com/iwd2020-london/speakers/ I have also spoken at in person events here in Belgium, as well as within my company, and even before that at UWI Cave Hill, and in SVG.",
+    "company": "Mediagenix",
+    "country": "St. Vincent & The Grenadines",
+    "name": "Janique-ka John",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestcarib.appspot.com/o/janique.jpg?alt=media&token=0e29d72c-ae4d-405e-8178-3c0b24b6efab",
+    "shortBio": "I am 29 years old, from St.Vincent and the Grenadines and a junior Frontend Engineer. I am currently based in Brussels.",
+    "socials": [
+      {
+        "icon": "twitter",
+        "link": "https://twitter.com/janiquekajohn",
+        "name": "Twitter"
+      },
+      {
+        "icon": "github",
+        "link": "https://github.com/luvi",
+        "name": "Github"
+      },
+      {
+        "icon": "linkedin",
+        "link": "https://www.linkedin.com/in/janiquekajohn/",
+        "name": "LinkedIn"
+      }
+    ],
+    "title": "Frontend Engineer",
+    "pronouns": "",
+    "featured": true,
+    "companyLogoUrl": "",
+    "companyLogo": "",
+    "photo": "",
+    "order": 7
+  },
+  "joel_dean": {
+    "bio": "A seasoned Software Architect and Device Magician, Joel Dean is Jamaica’s very own tech mogul in the making. At 27 years old, he boasts over 10 years of experience building applications for iPhones, Android phones, and computers. Joel has built several tech startups and lead Android development efforts, providing solutions even in the most remote areas of the world. He has managed two of the world’s largest data collection platforms, deployed to more than 50 countries, in 40 languages, for more than 1.5 million users. Joel is now a Software Engineer at Automattic, the owner of the popular blogging platform WordPress that has over 135 million active websites reaching over a billion users per month. Joel Dean is an active member of the World Economic Forum’s Global Shapers and also the lead organizer for the Google Developers Group Kingston.",
+    "company": "Automattic",
+    "country": "Jamaica",
+    "name": "Joel Dean",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestcarib.appspot.com/o/joel.jpg?alt=media&token=bda79bd4-dfbe-4563-a8e5-5c5638e114d1",
+    "shortBio": "Joel Dean is a Senior Software Engineer at Automattic, the company behind WordPress.com, Tumblr & WooCommerce. He is an active organizer of GDG Kingston.",
+    "socials": [
+      {
+        "icon": "github",
+        "link": "https://github.com/jd-alexander",
+        "name": "Github"
+      }
+    ],
+    "title": "Senior Software Engineer",
+    "pronouns": "",
+    "featured": true,
+    "companyLogoUrl": "",
+    "companyLogo": "",
+    "photo": "",
+    "order": 8
+  },
+  "khadine_singh": {
+    "bio": "Khadine has been at Google for 6+ years and currently works as a Quantitative User Experience (UX) Researcher at Google working on Google Maps. As a Quantitative UX Researcher, her role is to use data to make Google Maps better for users and to drive product excellence by enabling user-centered product measurement. Quantitative UX Researchers do this by leveraging skills in experimental design, statistical analysis, programming, and human-computer interaction to improve user experience. More specifically, Khadine works with teams to design and analyze experiments to test new concepts before launch, define success metrics and set up tracking for these metrics, and run custom research studies to understand user needs (think analyzing product logs data or running large-scale, representative surveys using methods like conjoint analysis). Khadine runs many internal \n\nBefore working on Google Maps, Khadine worked as a Quantitative UX Researcher with Google Search and as a Product Analyst with Google's in-house social science research team. She holds a degree in Mechanical Engineering with a minor in Statistics from Columbia University.\n\nAs a proud Trini, she is excited to see the tech scene flourishing in T&T and hopes to support this community however she can.",
+    "company": "Google",
+    "country": "Trinidad & Tobago",
+    "name": "Khadine Singh",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestcarib.appspot.com/o/khadine.jpg?alt=media&token=2600e3c3-189b-445c-923b-9805734984cc",
+    "shortBio": "Khadine hails from Trinidad and Tobago and is a 6+ year Googler working as a Quantitative UX Researcher on Google Maps. As a Quantitative UXR, her role is to analyze data to uncover insights and make Google Maps better for users and to drive product excellence by enabling user-centered product measurement.",
+    "socials": [
+      {
+        "icon": "linkedin",
+        "link": "https://www.linkedin.com/in/khadine-singh-5042b055/",
+        "name": "LinkedIn"
+      }
+    ],
+    "title": "Quantitative User Experience Researcher",
+    "pronouns": "",
+    "featured": true,
+    "companyLogoUrl": "",
+    "companyLogo": "",
+    "photo": "",
+    "order": 9
+  },
+  "lashuan_ramdin": {
+    "bio": "In a Digital Marketing landscape that is growing crowded daily, LaShaun Ramdin stands out as a true expert in the field. A graduate of Google Squared Online with a distinction in Digital Marketing, Mrs Ramdin is Certified in Google Analytics, AdWords - Search, Video, Mobile, Display and Digital Sales.\n\nA consummate sales professional with over 16 years experience, she understands that like sales, Digital Marketing is about building relationships and she uses that strength to deliver to her clients a tangible return on their investments. LaShaun has held talks on aspects of Digital Marketing in conjuction with the Trinidad and Tobago Chamber of Commerce, The University of the Southern Caribbean and Girls in ICT.\n\nAmong her achievements is establishing Loop News as the number one Caribbean online media platform in her role as Country Manager and helping to grow the brand across the region with sales responsibility for Barbados, Guyana, Suriname, French West Indies and Trinidad and Tobago.  She currently heads up another online media house, IzzSo Media, as their Managing Director. \nA mother or two, she enjoys travel and spending time with her family.",
+    "company": "Ramdin Consultancy",
+    "country": "Trinidad & Tobago",
+    "name": "LaShaun Ramdin",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestcarib.appspot.com/o/LaShaun%20Ramdin.jpg?alt=media&token=cca3a03f-6959-49af-9e12-887225b6e72b",
+    "shortBio": "Excellent attention to detail with the ability to lead and influence at all decision making levels. Specialties: Digital Marketing, Digital Strategy, Advertising, Campaign performance, Sales Professional, Mobile advertising, SEO, Digital Media, Analytics, Social Media, Content Creation, Media Management, Customer service, Negotiations, Business Development and Social Media Training.",
+    "socials": [
+      {
+        "icon": "linkedin",
+        "link": "https://www.linkedin.com/in/lashaunramdin/",
+        "name": "LinkedIn"
+      }
+    ],
+    "title": "Ramdin Consultancy",
+    "pronouns": "",
+    "featured": true,
+    "companyLogoUrl": "",
+    "companyLogo": "",
+    "photo": "",
+    "order": 10
+  },
+  "liza_layne": {
+    "bio": "Profile\nLiza Layne\nLead Data & Analytics Manager @ Eurostar International Ltd\nChapter Point of Contact AnitaB.org London\nCo-Chair Mid-career committee\n\nShe is an experienced Technical Strategic leader of BI & Analytics, awarded for delivering solutions for-profit and government organisations. With over 15 years of working Data teams  has seen her become a known champion and advocate for inclusion and diversity in tech. Currently working at Eurostar International Ltd as a Lead Data & Analytics Manager and is also an active member of its Inclusion and diversity committee. With a degree in Computing and a master’s in Business Intelligence and Analytics, saw her start a career in Tech by working in financial services as a Support Analyst and eventually on a path of working in Business Intelligence and Data Analytics.\n\nHer support of driving for inclusion started by being one of the founders of a London Credit Union serving as a Director, holding the posts of General Secretary and Compliance Officer from 2009 to 2011.\n\nJoining AnitaB.org in 2017 as a volunteer, has driven her to forge growth in AnitaB.org’s London Chapter which led to being invited to speak at AnitaB.org  Grace Hopper Celebration (GHC), the world's largest gathering of women technologists in 2018 and 2019.\n\nHer vision is to empower women to get into tech and stay in there! She is an active member of AnitaB.org volunteer communities serving as joint-conference chair for the 2019  AnitaB.org London Hopper x1, Chapter Point of Contact for AnitaB.org London, inaugural member AnitaB.org's Membership Mid-Career committee and GHC Data Science CFP reviewer.\n\n\n\nAnitaB.org Presents: Building an Antiracist Society Part 1& 2 Recording and Resources - https://anitab.org/news/announcements/anitaborg-presents-building-an-antiracist-society-part-2-recording-and-resources/  Panel Discussion\n\n\nGrace Hopper Celebration 2019 - Local Community - How can AnitaB.org's Volunteers Impact your Community Moderator for Panel Discussion https://drive.google.com/file/d/1kD40Ubi5-HOd2cSZHEBYdn75yBcTV72D/view?usp=sharing\n\nAnitaB.org Hopperx1 London 2019 - Back to the past: emulating RISC processor with Scala fall over - https://drive.google.com/file/d/1YuuKskKHzzGRnaS40GRgtqGTFlpW5koJ/view?usp=sharing\n\nGrace Hopper Celebration 2018: How Can Locals Impact your Community  Panel Discussion",
+    "company": "Eurostar International Ltd",
+    "country": "United Kingdom",
+    "name": "Liza Layne",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestcarib.appspot.com/o/liza.jfif?alt=media&token=3b14dcf4-e2a8-46f1-95e5-41306618a819",
+    "shortBio": "Liza is an experienced Technical Strategic leader of BI & Analytic for over 15 years has seen her become a known champion and advocate for inclusion and diversity in tech. Currently working at Eurostar International Ltd as a Lead Data & Analytics Manager and is also an active member of its Inclusion and diversity committee. Joining AnitaB.org in 2017 as a volunteer, has driven her to forge growth in AnitaB.org’s London Chapter and hHer vision is to empower women to get into tech and stay in there!",
+    "socials": [
+      {
+        "icon": "twitter",
+        "link": "https://twitter.com/lizalayne",
+        "name": "Twitter"
+      },
+      {
+        "icon": "linkedin",
+        "link": "https://www.linkedin.com/in/lizalayne/",
+        "name": "LinkedIn"
+      }
+    ],
+    "title": "Lead Data & Analytics Manager",
+    "pronouns": "",
+    "featured": true,
+    "companyLogoUrl": "",
+    "companyLogo": "",
+    "photo": "",
+    "order": 11
+  },
+  "maria_obrien": {
+    "bio": "Maria O'Brien is a lifelong volunteer. GDG Community Organizer, with a broad background in digital design and digital solutions consultancy gathered over 15 years of practice. She currently serves as the Lead Digital Designer at the Office of the Parliament of Trinidad and Tobago; Co-Director of MindWise Project- a mental health non profit focused on digital content creation and curation; and is the founder and Chief Innovation Officer of Design Change, a social change design firm selectively disrupting systems through targeted social innovation and sustainable development projects.\n\nThrough her roles, there is a focus on the Global Goals and the 2030 campaign. She hopes to contribute to the growth of a strong women techmaker community in Trinidad and Tobago, alongside advocating for and contributing meaningfully to better mental health and gender equality in the techmaker community, through healthier workplace practices in the way we as techmakers execute our work, and increasing the visibility of women techmakers locally, to opportunities and to each other.\n \nwww.linkedin.com/in/mdobrien",
+    "company": "Mindwise Project",
+    "country": "Trinidad & Tobago",
+    "name": "Maria OBrien",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestcarib.appspot.com/o/mariagdg.jpg?alt=media&token=66981aa8-8442-4d06-b3b8-23d47a29d979",
+    "shortBio": "Maria O'Brien is a lifelong volunteer. GDG Community Organizer, with a broad background in digital design and digital solutions consultancy gathered over 15 years of practice. She currently serves as the Lead Digital Designer at the Office of the Parliament of Trinidad and Tobago; Co-Director of MindWise Project- a mental health non profit focused on digital content creation and curation; and is the founder and Chief Innovation Officer of Design Change, a social change design firm selectively disrupting systems through targeted social innovation and sustainable development projects.",
+    "socials": [
+      {
+        "icon": "facebook",
+        "link": "https://www.facebook.com/mindwisett/",
+        "name": "Facebook"
+      }
+    ],
+    "title": "Director",
+    "pronouns": "",
+    "featured": true,
+    "companyLogoUrl": "",
+    "companyLogo": "",
+    "photo": "",
+    "order": 12
+  },
+  "michael_dorka": {
+    "bio": "I participated as speaker and Mentor in DevFest and Google for Startups events during the last 4 years all over the world.",
+    "company": "ank",
+    "country": "Argentina",
+    "name": "Michael Dorka",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestcarib.appspot.com/o/michael.jpg?alt=media&token=4da7f48e-59b6-4d98-81d3-3df74f8c4e8b",
+    "shortBio": "Currently responsible for research and design at ank,  a series A fintech start-up funded by Itaú Unibanco group. During the last 15 years I was creating and leading User Research and Design teams in start-ups and big corporates. Google supports me by letting me share my experiences as Google Developer Expert (GDE) and as mentor for spanish LATAM start-ups in the Google for startups program. I love living and working abroad as I did while researching in Tokyo and co-founding start-ups in Mexico City and creating great UX teams Buenos Aires. Funny date? More than half of my life I lived and worked abroad.",
+    "socials": [
+      {
+        "icon": "linkedin",
+        "link": "https://www.linkedin.com/in/michaeldorka/",
+        "name": "LinkedIn"
+      }
+    ],
+    "title": "Head of research",
+    "pronouns": "",
+    "featured": true,
+    "companyLogoUrl": "",
+    "companyLogo": "",
+    "photo": "",
+    "order": 13
+  },
+  "neevash_ramdial": {
+    "bio": "Nash is a Trinidadian Software Engineer and author with experience working on projects for both Enterprise and Startups.\nHe’s been an avid developer since summer 2017 and servers as the Lead Editor and admin of the Flutter Community Medium publication.",
+    "company": "The National ICT Company of Trinidad and Tobago",
+    "country": "Trinidad & Tobago",
+    "name": "Neevash Ramdial",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestcarib.appspot.com/o/nash.png?alt=media&token=6727c925-a7d3-4718-82d2-eb4b963c1a36",
+    "shortBio": "Nash writes code.",
+    "socials": [
+      {
+        "icon": "twitter",
+        "link": "https://twitter.com/Nash0x7E2",
+        "name": "Twitter"
+      }
+    ],
+    "title": "Solutions Architect",
+    "pronouns": "",
+    "featured": true,
+    "companyLogoUrl": "",
+    "companyLogo": "",
+    "photo": "",
+    "order": 14
+  },
+  "kern_elliot": {
+    "bio": "Kern Elliott has over 15 years of IT experience in operations and application management. He holds a computing science degree from the University of Greenwich and received his Masters in Information Systems Management from the University of Liverpool. Kern has also acquired a range of technical skills, including proficiency in various programming languages, CMS software and database software.",
+    "company": "The National ICT Company of Trinidad and Tobago",
+    "country": "Trinidad & Tobago",
+    "name": "Kern Elliott",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestcarib.appspot.com/o/kern.jpg?alt=media&token=637a5a18-4e29-4fc5-a2a7-033fcc592201",
+    "shortBio": "Kern works with managment",
+    "socials": [
+      {
+        "icon": "twitter",
+        "link": "https://twitter.com/KernElliott",
+        "name": "Twitter"
+      }
+    ],
+    "title": "Solutions Architect",
+    "pronouns": "",
+    "featured": true,
+    "companyLogoUrl": "",
+    "companyLogo": "",
+    "photo": "",
+    "order": 15
+  },
+  "nav_singh": {
+    "bio": "He is a professional Android developer. Apart from his day to day job, He spend his time to learn new technologies/frameworks. He is also an Organizer at GDG-Montreal.\nDuring his free he loves to watch Netflix, or you can find him at Gym.",
+    "company": "Manulife",
+    "country": "Canada",
+    "name": "Nav Singh",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestcarib.appspot.com/o/navesh.jpg?alt=media&token=416cb4c4-1766-40ac-86df-aa4e979fb3f9",
+    "shortBio": "Mobile software engineer at Manulife",
+    "socials": [
+      {
+        "icon": "twitter",
+        "link": "https://twitter.com/navczydev",
+        "name": "Twitter"
+      },
+      {
+        "icon": "linkedin",
+        "link": "https://linkedin.com/in/navczydev",
+        "name": "LinkedIn"
+      }
+    ],
+    "title": "Mobile Software Engineer",
+    "pronouns": "",
+    "featured": true,
+    "companyLogoUrl": "",
+    "companyLogo": "",
+    "photo": "",
+    "order": 16
+  },
+  "obika_gellineau": {
+    "bio": "I am a security professional with over ten years of experience with IT Security, Forensics and Software Development. I work as a cybersecurity consultant in Trinidad and Tobago, where I develop solutions for clients in the areas of cyber security, digital transformation and business continuity.",
+    "company": "N/A",
+    "country": "Trinidad & Tobago",
+    "name": "Obika Gellineau",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestcarib.appspot.com/o/obika.jpg?alt=media&token=c3d295d5-fca7-47df-a0dc-eb1e8615d051",
+    "shortBio": "I am a security professional with over ten years of experience with IT Security, Forensics and Software Development",
+    "socials": [
+      {
+        "icon": "linkedin",
+        "link": "https://www.linkedin.com/in/obikag/",
+        "name": "LinkedIn"
+      }
+    ],
+    "title": "Manager",
+    "pronouns": "",
+    "featured": true,
+    "companyLogoUrl": "",
+    "companyLogo": "",
+    "photo": "",
+    "order": 17
+  },
+  "qarun": {
+    "bio": "Web Developer with close to 2 years experience in Angular, Node.js and Firebase. Interested in integrating software into many other fields to improve efficiency and reduce cost. \n\nI strive for clean, maintainable, reusable, testable code. I have not spoken at any conferences before, this is my first time.",
+    "company": "Caribbean Airlines Ltd.",
+    "country": "Trinidad & Tobago",
+    "name": "Qarun Qadir Bissoondial",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestcarib.appspot.com/o/qarun.jpg?alt=media&token=543e4159-ea24-4944-8b4f-bbb615638f07",
+    "shortBio": "Aspiring Web Developer with an eye for clean and testable code",
+    "socials": [
+      {
+        "icon": "twitter",
+        "link": "https://twitter.com/QarunQB",
+        "name": "Twitter"
+      },
+      {
+        "icon": "github",
+        "link": "https://github.com/Qarun-Qadir-Bissoondial",
+        "name": "Github"
+      },
+      {
+        "icon": "website",
+        "link": "",
+        "name": "Website"
+      }
+    ],
+    "title": "Software Engineer",
+    "pronouns": "",
+    "featured": true,
+    "companyLogoUrl": "",
+    "companyLogo": "",
+    "photo": "",
+    "order": 18
+  },
+  "sherezz_grant": {
+    "bio": "Sherezz Grant is a geoscientist turned full-stack web developer living in Trinidad and Tobago. Motivated by the idea of using code to help solve some of life’s crucial problems, she prefers to work on meaningful projects that help society, such as developing the website for allWomen, the first all-women AI bootcamp in Barcelona helping to reduce the gender gap in tech, and ReliefTT, a website providing resources for persons affected by flooding or other disasters in Trinidad and Tobago. She currently works for a US-based non-profit called 350.org, an organisation focused on keeping fossil fuels in the ground. She has since spoken about her career experiences at International Girls in ICT Day, Microsoft DigiGirlz, PIVOT, a Women Techmakers Trinidad and Tobago event, and more. In her free time, she enjoys playing piano, singing, dancing and travelling.",
+    "company": "350.org",
+    "country": "Trinidad & Tobago",
+    "name": "Sherezz Grant",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestcarib.appspot.com/o/sherezz.jpeg?alt=media&token=038ec8c2-9a66-49e0-a6e7-24d739d528cd",
+    "shortBio": "A web developer motivated to make meaningful impact through code.",
+    "socials": [
+      {
+        "icon": "website",
+        "link": "https://www.twtitter.com/rezziemaven",
+        "name": "Website"
+      },
+      {
+        "icon": "github",
+        "link": "https://www.github.com/rezziemaven",
+        "name": "Github"
+      },
+      {
+        "icon": "linkedin",
+        "link": "https://www.linkedin.com/in/sherezz",
+        "name": "LinkedIn"
+      },
+      {
+        "icon": "website",
+        "link": "https://rezziemaven.com",
+        "name": "Website"
+      }
+    ],
+    "title": "Web Developer",
+    "pronouns": "",
+    "featured": true,
+    "companyLogoUrl": "",
+    "companyLogo": "",
+    "photo": "",
+    "order": 19
+  },
+  "nicholas_mendez": {
+    "bio": "Nicholas Mendez is a Computer Science graduate, a freelance developer, and Organizer of GDG Port-of-Spain. Passionate in all things web, he has seen success in regional coding competitions such as WSIS Hack Against Hunger, Teleios Codejam, Developing Caribbean Code Sprint, and The Bmobile Innovation Challenge. He teaches Software Engineering and Web Technologies at University and specializes in Progressive Web Applications with a keen interest in performance, UX, and most recently Machine Learning.",
+    "company": "The University of the West Indies St. Augustine Campus",
+    "country": "Trinidad & Tobago",
+    "name": "Nicholas Mendez",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestcarib.appspot.com/o/nick.png?alt=media&token=39e8234a-98f9-4403-b4e3-856dfbe9b3d7",
+    "shortBio": "Instructor, Die hard web developer",
+    "socials": [
+      {
+        "icon": "twitter",
+        "link": "https://twitter.com/snickdx",
+        "name": "Twitter"
+      },
+      {
+        "icon": "github",
+        "link": "https://github.com/snickdx",
+        "name": "Github"
+      },
+      {
+        "icon": "website",
+        "link": "https://nicholasmendez.dev",
+        "name": "Website"
+      }
+    ],
+    "title": "Instructor",
+    "pronouns": "",
+    "featured": true,
+    "companyLogoUrl": "",
+    "companyLogo": "",
+    "photo": "",
+    "order": 20
+  }
+},
   "team": [
     {
       "members": [
@@ -418,7 +1551,9 @@
         "2016": [
           {
             "presentation": "https://speakerdeck.com/gdglviv/adrian-kajda-fuelio-success-story",
-            "tags": ["Android"],
+            "tags": [
+              "Android"
+            ],
             "title": "Fuelio. Success story",
             "videoId": "qK7ysoohsaM"
           }

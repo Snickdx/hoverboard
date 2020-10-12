@@ -210,6 +210,7 @@ export const theme = css`
   }
 
   .card {
+    max-width: 280px;
     background-color: var(--default-background-color);
     box-shadow: var(--box-shadow);
     border-radius: var(--border-radius);
