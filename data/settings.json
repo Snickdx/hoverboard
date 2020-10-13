@@ -32,11 +32,6 @@
       "route": "schedule",
       "permalink": "/schedule/",
       "label": "Schedule"
-    },
-    {
-      "route": "team",
-      "permalink": "/team/",
-      "label": "Team"
     }
   ],
   "heroSettings": {
@@ -99,7 +94,7 @@
     },
     "coc": {
       "title": "Code of Conduct",
-      "metaDescription": "Lear more about our expectations for all those who participate in our community",
+      "metaDescription": "Hear more about our expectations for all those who participate in our community",
       "background": {
         "color": "#fff"
       },

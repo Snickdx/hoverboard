@@ -231,7 +231,7 @@
     "blocks": [
       {
         "title": "Organizer",
-        "description": "<a href='http://lviv.gdg.org.ua' target='_blank'>GDG Lviv</a> with support of 10 GDGs from all around Ukraine is proud organizer of DevFest Ukraine",
+        "description": "DevFest Caribbean 2020 is organized by a union of Caribbean GDGs and WTMs including GDG Kingston, GDG Port-au-Prince, GDG Port-of-Spain and GDG Georgetown",
         "callToAction": {
           "label": "Open team page",
           "link": "/team"

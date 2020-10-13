@@ -78,29 +78,16 @@ export class AboutOrganizerBlock extends ReduxMixin(PolymerElement) {
             <marked-element class="description" markdown="{$ block.description $}">
               <div slot="markdown-html"></div>
             </marked-element>
-            <a
-              href="{$ block.callToAction.link $}"
-              {%
-              if
-              block.calltoaction.newtab
-              %}
-              target="_blank"
-              rel="noopener noreferrer"
-              {%
-              endif
-              %}
-            >
-              <paper-button class="cta-button animated icon-right">
-                <span>{$ block.callToAction.label $}</span>
-                <iron-icon icon="hoverboard:arrow-right-circle"></iron-icon>
-              </paper-button>
-            </a>
+
           </div>
           {% endfor %}
         </div>
       </div>
     `;
   }
+
+
+
 
   @property({ type: Object })
   private viewport: Viewport;
