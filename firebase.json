@@ -12,7 +12,7 @@
     "rewrites": [
       {
         "source": "**",
-        "function": "prerender"
+        "destination": "/index.html"
       }
     ],
     "headers": [
