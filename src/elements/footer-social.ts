@@ -182,26 +182,6 @@ export class FooterSocial extends PolymerElement {
       </div>
     </div>
 
-    <div class="social-group social-networks">
-      <div class="title">{$ followUs $} </div>
-      <ul class="nav-inline">
-        {% for socFollow in socialNetwork.follow %}
-          <li>
-            <a
-              href="{$ socFollow.url $}"
-              target="_blank"
-              rel="noopener noreferrer"
-              ga-on="click"
-              ga-event-category="social"
-              ga-event-action="follow"
-              ga-event-label="{$ socFollow.name $}">
-              <paper-icon-button icon="hoverboard:{$ socFollow.name $}"></paper-icon-button>
-            </a>
-          </li>
-        {% endfor %}
-      </ul>
-    </div>
-
     <div class="social-group email">
       <div class="title">
         <a aria-label="{$ emailUs $}" href="mailto:{$ mailto $}">{$ emailUs $}</a>

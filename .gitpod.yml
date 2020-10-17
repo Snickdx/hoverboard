@@ -3,4 +3,3 @@ image:
 
 tasks:
   - init: npm ci
-    command: npm run start

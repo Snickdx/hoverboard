@@ -84,6 +84,17 @@
           }
         ],
         "startTime": "16:00"
+      },
+    {
+    "endTime": "16:20",
+        "sessions": [
+          {
+            "items": [
+              "150"
+            ]
+          }
+        ],
+        "startTime": "16:15"
       }
     ],
     "tracks": [
@@ -185,7 +196,7 @@
         "startTime": "14:35"
       },
       {
-        "endTime": "03:35",
+        "endTime": "15:35",
         "sessions": [
           {
             "items": [
@@ -196,15 +207,26 @@
         "startTime": "15:05"
       },
       {
-        "endTime": "04:05",
+        "endTime": "16:35",
         "sessions": [
           {
             "items": [
-              "299"
+              "291"
             ]
           }
         ],
-        "startTime": "05:35"
+        "startTime": "15:35"
+      },
+      {
+        "endTime": "16:40",
+        "sessions": [
+          {
+            "items": [
+              "292"
+            ]
+          }
+        ],
+        "startTime": "16:35"
       }
     ],
     "tracks": [
@@ -417,11 +439,24 @@
     "title": "Level up from IC Data Engineer to Data Manager?",
     "language": "English"
   },
+  "150": {
+    "complexity": "Beginner",
+    "description": "Closing off the Day 1",
+    "speakers": [
+      "nicholas_mendez"
+    ],
+    "tags": [
+      "closing"
+    ],
+    "title": "Event Closing",
+    "language": "English"
+  },
   "200": {
     "complexity": "Beginner",
     "description": "The opening of Day 2",
     "speakers": [
-      "nicholas_mendez"
+      "rodrigo",
+      "aggrey"
     ],
     "tags": [
       "opening"
@@ -545,17 +580,31 @@
     "title": "Conversational AI and Management Information Systems. Is there a new mode of interaction coming?",
     "language": "English"
   },
-  "299": {
+  "292": {
     "complexity": "Beginner",
-    "description": "A talk with a panel of speakers",
+    "description": "Closing Day 2",
     "speakers": [
-      "maria_obrien",
-      "lyse"
+      "aggrey"
     ],
     "tags": [
-      ""
+      "closing"
     ],
-    "title": "Panel Talk Session",
+    "title": "Day 2 Closing",
+    "language": "English"
+  },
+"291": {
+    "complexity": "Beginner",
+    "description": "A talk surrounding the issues facing diversity and inclusion in the tech ecosystem.",
+    "speakers": [
+      "maria_obrien",
+      "lyse",
+      "liza_layne",
+      "nicholas_mendez"
+    ],
+    "tags": [
+      "diversity", "inclusion"
+    ],
+    "title": "Panel Discussion: Diversity & Inclusion",
     "language": "English"
   },
   "300": {
@@ -750,6 +799,28 @@
     "companyLogo": "",
     "photo": "",
     "order": 0
+  },
+  "aggrey": {
+    "bio": "On the surface, Aggrey Marsh is a software developer and system engineer with over 10 years of experience working in the Caribbean from as far north as the Bahamas then across to Dominica, Antigua , Barbados Trinidad and of course his home country of  Guyana.\n\nHe has worked on region-wide projects for the likes of Sybase , Google , ITU just to name a few . He has been asked to sit on expert panels and present by Economic Commission for Latin America and the Caribbean, canto, Google.\n\nHe also has volunteered his time to help the Guyana robotics team annually for the last 3 years prepare for the international competition. He also Gives his time to the Guyanese student association and other organizations that do work in areas that align with areas he is focused on. He is also trained in rapid damage assessment by Caribbean emergency and disaster management agency and volunteer to deploy to any caricome country that may need help post a disaster. \n\nMore than his role in the technology industry in Guyana the Caribbean as a wider region he has been vocal about Guyana devolvement in the ICT sector. One of those ideas is how TAX incentives can boat the ICT sector and bring foreign investment to the country in at pubic forum so much so that the finance minister has given him an audience to discuss this and other topics around the ICT sector like e-commerce, blockchain, cryptocurrencies and most recently the need for internet exchange points as a pillar for a connected and resilient Guyana etc . \n\n",
+    "company": "Issachar and associates - GDG Georgetown ",
+    "country": "Guyana",
+    "name": "Aggrey Marsh",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestcarib.appspot.com/o/aggrey.jpg?alt=media&token=68ef06e2-b2d5-4604-8960-c46590ea9794",
+    "shortBio": "On the surface, Aggrey Marsh is a software developer and system engineer with over 10 years of experience working in the Caribbean from as far north as the Bahamas then across to Dominica, Antigua , Barbados Trinidad and of course his home country of  Guyana.",
+    "socials": [
+      {
+        "icon": "facebook",
+        "link": "https://www.facebook.com/aggreymarsh",
+        "name": "Facebook"
+      }
+    ],
+    "title": "Lead",
+    "pronouns": "",
+    "featured": true,
+    "companyLogoUrl": "",
+    "companyLogo": "",
+    "photo": "",
+    "order": 21
   },
   "carl_handy": {
     "bio": "Carl Handy has led an impressive career as a Front-end Software Engineer and User Experience Designer (UXD) in his four years working in the tech industry. In 2020 he was recognized by Prismic, a San Francisco based SaaS company, for his contributions to their CMS platform.\n\nServing as Front-end Engineer and Lead UX Designer at IntellectStorm played a major role in honing the skills he has today. While there, he was afforded the opportunity to work on and lead projects in various industries including healthcare, fintech and education.\n\nCarl is also a Project Periwinkle Ambassador, LACNIC member and has founded his own companies namely Narawtiv, an art studio, and Kalpa, an experience design and development agency.\n\nWhen he’s not working, Carl enjoys writing poetry, digital painting and table tennis.",
