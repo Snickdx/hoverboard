@@ -366,6 +366,30 @@
         "title": "DevFest 2020"
       }
     ]
+  },
+  "Bonus Track":{
+    "date": "Bonus Track",
+    "dateReadable": "Bonus Track",
+    "timeslots": [
+      {
+        "endTime": "11:05",
+        "sessions": [
+          {
+            "items": [
+              "500",
+              "510",
+              "520"
+            ]
+          }
+        ],
+        "startTime": "11:00"
+      }
+    ],
+    "tracks": [
+      {
+        "title": "Bonus Track"
+      }
+    ]
   }
 },
   "sessions": {
@@ -592,9 +616,9 @@
     "title": "Day 2 Closing",
     "language": "English"
   },
-"291": {
+  "291": {
     "complexity": "Beginner",
-    "description": "A talk surrounding the issues facing diversity and inclusion in the tech ecosystem.",
+    "description": "A Diversity and Inclusion panel discussion where we will hear our panelists talk about the experiences and hopes we have for a more inclusive and diverse Technology space in the Caribbean and its diaspora!",
     "speakers": [
       "maria_obrien",
       "lyse",
@@ -611,7 +635,7 @@
     "complexity": "Beginner",
     "description": "The Opening of Day 3",
     "speakers": [
-      "nicholas_mendez"
+      "aggrey"
     ],
     "tags": [
       "opening"
@@ -697,7 +721,7 @@
     "complexity": "Beginner",
     "description": "Integrating a development team into a company is no easy task. It involves a shift in mindset, technology and the willingness to step outside of the box for both management and the developers.\n \nJoin us as we take you through some of the hurdles and lessons learnt as we embarked on a journey to do just that!",
     "speakers": [
-      "nevash, kern_elliot"
+      "nevash", "kern_elliot"
     ],
     "tags": [
       "development'",
@@ -737,28 +761,73 @@
   },
   "390": {
     "complexity": "Beginner",
-    "description": "A second talk with a panel of speakers",
+    "description": "A discussion on now Covid 19 has impacted development now an forever.",
     "speakers": [
       "rodrigo",
       "khadine_singh",
-      "joel_dean"
+      "joel_dean",
+      "irwin",
+      "aggrey",
+      "nicholas_mendez"
     ],
     "tags": [
       "panel"
     ],
-    "title": "Panel Talk Session 2",
+    "title": "Panel Talk: The State of Dev During and Post Covid 19",
     "language": "English"
   },
   "400": {
     "complexity": "Beginner",
     "description": "Closing off the event",
     "speakers": [
-      "nicholas_mendez"
+        "aggrey",
+        "maria_obrien",
+        "joel_dean",
+        "nicholas_mendez"
     ],
     "tags": [
       "closing"
     ],
     "title": "Event Closing",
+    "language": "English"
+  },
+  "500": {
+    "complexity": "Beginner",
+    "description": "When people thing of Chromebooks, they think of low powered laptops for kids to use at school with an OS that is just a browser. Can a developer use a Chromebook effectively? Should they? Let's find out. <a href='https://youtu.be/h5pKID3W7n4'>View Talk on YouTube</a>",
+    "speakers": [
+      "anil_ramnanan"
+    ],
+    "tags": [
+      "chromebook'",
+      " 'development'"
+    ],
+    "title": "My Chromebook and me. ChromeOS and the Developer",
+    "language": "English"
+  },
+  "510": {
+    "complexity": "Intermediate",
+    "description": "In this session, my major aim would be to provide an overview of the different tools one could use to power their Android apps with Machine Learning and also discuss the new additions for Machine Learning in Android 11 specifically the Model Binding Plugin and ML Kit. I would first go on to explain the standard procedure of using pre-trained models with MLKit. I would show how we could take the idea of MLKit forward and use pre-trained models from TensorFlow Hub to run right in the app, which would provide support to build high-quality machine learning apps based on models contributed from the community. I would then show how we could use custom TFLite models in Android apps, I would also talk about TensorFlow Model Maker and ML Model binding plugin in Android Studio through which I plan to show how easy it is to now use custom TF Lite models in Android apps. With Android 11 the NN API now supports Asymmetric integer weights making model sizes and inferences even smaller opening up an even larger opportunities for edge ML.\r\nIf time persists, I would also show demos about the above topics.  <a href='https://www.youtube.com/watch?v=cAp81lVV6UE'>View Talk on YouTube</a>",
+    "speakers": [
+      "rishit_dagli"
+    ],
+    "tags": [
+      "android11'",
+      " 'ml'",
+      " 'tensorflow'"
+    ],
+    "title": "Superpower your Android apps with ML: Android 11",
+    "language": "English"
+  },
+  "520": {
+    "complexity": "Intermediate",
+    "description": "We will review a few key facts about cloud run and pub/sub and then apply those concepts to engineer a scalable and resilient solution for a ficticios company. And deploy such solution to GCP <a href='https://youtu.be/_a7iDiN54tQ'>View Talk on YouTube</a>",
+    "speakers": [
+      "felipe"
+    ],
+    "tags": [
+      "Microservices cloud run pubsub node scalability demo"
+    ],
+    "title": "Resilient, scalable and asynchronous microservices with cloud run and pub/sub",
     "language": "English"
   }
 },
@@ -1193,26 +1262,43 @@
     "photo": "",
     "order": 13
   },
-  "nevash, kern_elliot": {
-    "bio": "Nash is a Trinidadian Software Engineer and author with experience working on projects for both Enterprise and Startups.\nHe’s been an avid developer since summer 2017 and servers as the Lead Editor and admin of the Flutter Community Medium publication.\n\nKern Elliott has over 15 years of IT experience in operations and application management. He holds a computing science degree from the University of Greenwich and received his Masters in Information Systems Management from the University of Liverpool. Kern has also acquired a range of technical skills, including proficiency in various programming languages, CMS software and database software.",
+    "kern_elliot": {
+      "bio": "Kern Elliott has over 15 years of IT experience in operations and application management. He holds a computing science degree from the University of Greenwich and received his Masters in Information Systems Management from the University of Liverpool. Kern has also acquired a range of technical skills, including proficiency in various programming languages, CMS software and database software.",
+      "company": "The National ICT Company of Trinidad and Tobago",
+      "country": "Trinidad & Tobago",
+      "name": "Kern Elliott",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestcarib.appspot.com/o/kern.jpg?alt=media&token=637a5a18-4e29-4fc5-a2a7-033fcc592201",
+      "shortBio": "Kern works with management.",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/KernElliott",
+          "name": "Twitter"
+        }
+      ],
+      "title": "Solutions Architect",
+      "pronouns": "",
+      "featured": true,
+      "companyLogoUrl": "",
+      "companyLogo": "",
+      "photo": "",
+      "order": 40
+    },
+"nevash": {
+    "bio": "Nash is a Trinidadian Software Engineer and author with experience working on projects for both Enterprise and Startups.\nHe’s been an avid developer since summer 2017 and servers as the Lead Editor and admin of the Flutter Community Medium publication.",
     "company": "The National ICT Company of Trinidad and Tobago",
     "country": "Trinidad & Tobago",
-    "name": "Neevash Ramdial & Kern Elliott",
+    "name": "Neevash Ramdial",
     "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestcarib.appspot.com/o/nash.png?alt=media&token=6727c925-a7d3-4718-82d2-eb4b963c1a36",
-    "shortBio": "Nash writes code while Kern works with management.",
+    "shortBio": "Nash writes code.",
     "socials": [
       {
         "icon": "twitter",
         "link": "https://twitter.com/Nash0x7E2",
         "name": "Twitter"
-      },
-      {
-        "icon": "twitter",
-        "link": "https://twitter.com/KernElliott",
-        "name": "Twitter"
       }
     ],
-    "title": "Solutions Architect ",
+    "title": "Solutions Architect",
     "pronouns": "",
     "featured": true,
     "companyLogoUrl": "",
@@ -1386,6 +1472,92 @@
     "companyLogo": "",
     "photo": "",
     "order": 20
+  },
+    "anil_ramnanan": {
+    "bio": "Anil Ramnanan is a Systems Administrator at the University of the West Indies Open Campus with the responsibilities of managing the organisiation’s Learning Management Systems. He is a Graduate of the University of the West Indies with an MPhil in Computer Science and has served as a Director of the Trinidad and Tobago Computer Society. He has extensive experience in the area of Open Source Software, web and mobile development. His interest also includes vision using OpenCV and various computer vision APIs as well as  Internet of Things using hardware platforms such as the Raspberry Pi and Ardiuno.\n\nA Developer's Guide to Machine Learning and Computer Vision (2018)https://www.youtube.com/watch?v=TnuPoAYBJbk\n\nMoodle Moot UK (2010)\nMoodle Integration with Google Apps & The Open Campus Student Management System –Kevin Ramsoobhag, Anil Ramnanan (co-author) http://moodlemootuk2010.org.uk/videos/\n\nMoodle Moot Canada (July 2011)\nAuto grouping Enrollment plugin for Moodle 2.0 – Anil Ramnanan, Reiza Haniffhttp://www.wiziq.com/online-class/593412-auto-grouping-enrollment-plugin-for-moodle-2-0\n\nMoodle Moot Online (August 2011)\nAuto grouping Enrollment plugin for Moodle 2.0 – Anil Ramnanan, Reiza Haniff http://www.wiziq.com/online-class/593412-auto-grouping-enrollment-plugin-for-moodle-2-0\n\nMoodle Moot Canada 2013 Moodle workshop for teaching EFL ||Moodle: Integrating external application with web services – Anil Ramnanan",
+    "company": "The University of the West Indies Open Campus",
+    "country": "Trinidad & Tobago",
+    "name": "Anil Ramnanan",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/gdgpos-devfest19.appspot.com/o/anil.jpg?alt=media&token=c4b923f8-fe46-4061-9b08-1300a691d702",
+    "shortBio": "Anil Ramnanan is a developer, systems administrator and techie that dabbles in IoT, Machine Learning and other weird things.",
+    "socials": [
+      {
+        "icon": "twitter",
+        "link": "/twitter.com/anilramnanan",
+        "name": "Twitter"
+      }
+    ],
+    "title": "Learning Management Systems Administrator",
+    "pronouns": "",
+    "featured": true,
+    "companyLogoUrl": "",
+    "companyLogo": "",
+    "photo": "",
+    "order": 22
+  },
+  "rishit_dagli": {
+    "bio": "Rishit Dagli is a grade 11 student and is a TEDx, TED-Ed Speaker. To share his knowledge with everyone he mentors at TensorFlow UserGroup Mumbai and organizes groups Global AI Mumbai and Kotlin Mumbai and is an international speaker. He also works as a Google AI ExploreML facilitator. He is also interested in research and has published multiple research papers in the field of AI and Maths. He has also represented his country in various Hackathons and competitions and even won a few while representing his country.\n\nMore about his past talks can be found at https://www.rishit.tech/talks",
+    "company": "Narayana School",
+    "country": "India",
+    "name": "Rishit Dagli",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestcarib.appspot.com/o/rishit.jfif?alt=media&token=e542b51b-4e4d-4809-bd55-1699bebec739",
+    "shortBio": "TEDx, TED-Ed Speaker",
+    "socials": [
+      {
+        "icon": "twitter",
+        "link": "https://twitter.com/rishit_dagli",
+        "name": "Twitter"
+      },
+      {
+        "icon": "linkedin",
+        "link": "https://www.linkedin.com/in/rishit-dagli",
+        "name": "LinkedIn"
+      },
+      {
+        "icon": "website",
+        "link": "https://medium.com/@rishit.dagli",
+        "name": "Website"
+      },
+      {
+        "icon": "github",
+        "link": "https://github.com/Rishit-dagli",
+        "name": "Github"
+      },
+      {
+        "icon": "website",
+        "link": "https://stackoverflow.com/users/11878567/rishit-dagli",
+        "name": "Website"
+      }
+    ],
+    "title": "Student",
+    "pronouns": "",
+    "featured": true,
+    "companyLogoUrl": "",
+    "companyLogo": "",
+    "photo": "",
+    "order": 23
+  },
+  "felipe": {
+    "bio": "I've designed applications in Google Cloud environments using managed and non-managed services including but not limited to Google Appengine, Google Compute Engine, Google Kubernetes Engine and Cloud Run.\nI've used Docker Containers to create scalable and distributed cloud solutions powered by continuous integration, continuous delivery and continuous deployment. Fetching code from GitHub or google's own Cloud Repositories, building the production artefacts with Cloud builds or directly by using Jenkins Pipelines and deploying to Google's computing options. I always pursue flexible solutions that provide scalability for cost reduction and availability in case spikes on traffic occur.\n\n2 times certified in Google cloud (architect and cloud engineer) and Kubernetes certified administrator.\nI'm also a Google Developer Expert on Cloud technologies, which means that I'm an active contributor to the tech-cloud communities in Colombia and abroad . Please have a look at my medium profile for more information.",
+    "company": "Globant ",
+    "country": "Colombian ",
+    "name": "Juan Felipe Luján ",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestcarib.appspot.com/o/felipe2.jfif?alt=media&token=bb095feb-3763-472c-af7a-9bafe8c8148c",
+    "shortBio": "Js developer with extensive experience in cloud architecture and kubernetes. Certified cloud engineer and architect in GCP and Kubernetes Administrator ",
+    "socials": [
+      {
+        "icon": "linkedin",
+        "link": "https://www.linkedin.com/in/felipelujan",
+        "name": "LinkedIn"
+      }
+    ],
+    "title": "Web UI engineer ",
+    "pronouns": "",
+    "featured": true,
+    "companyLogoUrl": "",
+    "companyLogo": "",
+    "photo": "",
+    "order": 24
   }
 },
   "team": [
